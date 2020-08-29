@@ -13,7 +13,7 @@ const Course = () => {
         setCart(newCart);
     } 
     const list = fakeData;
-    const [products , setProduct] = useState(list);
+    const [products] = useState(list);
     
     const [cart, setCart] = useState([]);
     
