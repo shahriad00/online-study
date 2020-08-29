@@ -1,0 +1,34 @@
+.full-product{
+    border-right:1px solid lightGray;
+}
+.product{
+    padding-top:40px;
+   
+}
+.product .name{
+    color : blue;
+    font-size:1.2rem;
+    text-decoration:underline ;
+}
+.product .name:hover{
+    color : darkblue;
+    cursor:pointer;
+}
+.product .price{
+    font-size: 1rem;
+    font-weight: bold;
+    color:#dfa921;
+}
+.product-btn{
+    background:#dfa921;
+    width: 6em;
+    height:2em;
+    border-radius: 10px;
+    border:none;
+    font-weight:bold;
+    font-size:0.8em;
+    color:#fff;
+}
+.product-btn:hover{
+    background:#a37c08;
+}

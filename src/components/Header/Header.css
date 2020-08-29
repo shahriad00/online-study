@@ -1,0 +1,14 @@
+.header{
+    background:lightgreen;
+    line-height: 40px;
+}
+.header a{
+    margin-left:50px;
+    text-decoration:none;
+    color:black;
+    padding:10px;
+}
+.header a:hover{
+    background:black;
+    color:#fff;
+}
